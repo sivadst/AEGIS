@@ -114,13 +114,7 @@ PYTHONPATH=. python main.py
 - ⬜ Jetson Edge Deployment
 - ⬜ 3D MHD Simulation
 
-## 📷 Screenshots
 
-- Plasma Simulator
-- PINN Predictions
-- PPO Reward Curve
-- Grid Controller
-- ONNX Export
 
 ## 📜 License
 
